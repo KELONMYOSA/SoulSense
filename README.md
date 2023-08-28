@@ -1,5 +1,7 @@
 # SoulSense - Discord-бот для распознавания речи и эмоций  
 
+[[Презентация]](https://raw.githubusercontent.com/KELONMYOSA/SoulSense/main/SoulSense_Самойленко.pdf)
+
 ## :page_with_curl: Содержание
 
 ➠ [Сервисы](#globe_with_meridians-сервисы)
